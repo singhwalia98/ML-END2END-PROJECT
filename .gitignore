@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@singhwalia98 
-singhwalia98
-/
-ML-END-TO-END-PROJECT
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ML-END-TO-END-PROJECT/.gitignore
-@singhwalia98
-singhwalia98 Initial commit
-Latest commit 0f1d6a4 now
- History
- 1 contributor
-129 lines (105 sloc)  1.76 KB
- 
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -159,18 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-ML-END-TO-END-PROJECT/.gitignore at main · singhwalia98/ML-END-TO-END-PROJECT

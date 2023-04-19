@@ -4,5 +4,6 @@ pandas
 seaborn
 scikit-learn
 matplotlib
+Scipy
 
 -e .
